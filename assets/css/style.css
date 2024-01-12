@@ -469,6 +469,7 @@ a:hover {
 
 #header .logo img {
   max-height: 40px;
+
 }
 
 #header.header-scrolled {
@@ -1460,4 +1461,10 @@ footer .credits {
 
 footer .credits a {
   color: #fff;
+}
+.amazon{
+  background-color: black;
+}
+.apple img {
+  
 }
